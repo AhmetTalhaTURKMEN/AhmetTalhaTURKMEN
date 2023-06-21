@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmetTalhaTURKMEN
 - 👀 I’m interested in software and coding
-- 🌱 I’m currently learning JS , Node.js , React , React Native , BASH , C#(for Unity) and blender
+- 🌱 I’m currently learning JS , Node.js , React , React Native , BASH , Python , C#(for Unity) and blender
 
 <!---
 AhmetTalhaTURKMEN/AhmetTalhaTURKMEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
